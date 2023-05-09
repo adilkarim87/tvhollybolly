@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://tvhollybolly.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/dwaudkr81y?key=5199d2392c6b9de90f09d50f7fe3a544`
 				}`,
 			},
 		};
